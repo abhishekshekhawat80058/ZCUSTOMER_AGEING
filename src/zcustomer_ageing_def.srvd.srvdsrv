@@ -1,0 +1,4 @@
+@EndUserText.label: 'Customer Ageing Def'
+define service ZCUSTOMER_AGEING_DEF {
+  expose ZCUSTOMER_AGEING_CDS as cust_age;
+}

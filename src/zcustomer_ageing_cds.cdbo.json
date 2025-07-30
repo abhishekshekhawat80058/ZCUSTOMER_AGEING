@@ -1,0 +1,94 @@
+{
+  "formatVersion": "1",
+  "header": {
+    "description": "ZCUSTOMER_AGEING_CDS",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "generalInformation": {
+    "objectType": "DDLS",
+    "objectName": "ZCUSTOMER_AGEING_CDS"
+  },
+  "fields": [
+    {
+      "name": "CUSTOMER",
+      "nature": "general"
+    },
+    {
+      "name": "CUSTOMERNAME",
+      "nature": "general"
+    },
+    {
+      "name": "POSTINGDATE",
+      "nature": "general"
+    },
+    {
+      "name": "BILLINGDOCUMENT",
+      "nature": "general"
+    },
+    {
+      "name": "ACCOUNTINGDOCUMENT",
+      "nature": "general"
+    },
+    {
+      "name": "ACCOUNTINGDOCUMENTTYPE",
+      "nature": "general"
+    },
+    {
+      "name": "DOCUMENTREFERENCEID",
+      "nature": "general"
+    },
+    {
+      "name": "REFERENCE2IDBYBUSINESSPARTNER",
+      "nature": "general"
+    },
+    {
+      "name": "NETDUEDATE",
+      "nature": "general"
+    },
+    {
+      "name": "ZDAYS",
+      "nature": "general"
+    },
+    {
+      "name": "COMPANYCODECURRENCY",
+      "nature": "general"
+    },
+    {
+      "name": "AMOUNTINCOMPANYCODECURRENCY",
+      "nature": "general"
+    },
+    {
+      "name": "ZDAY1",
+      "nature": "general"
+    },
+    {
+      "name": "ZDAY2",
+      "nature": "general"
+    },
+    {
+      "name": "ZDAY3",
+      "nature": "general"
+    },
+    {
+      "name": "ZDAY4",
+      "nature": "general"
+    },
+    {
+      "name": "ZDAY5",
+      "nature": "general"
+    },
+    {
+      "name": "ZDAY6",
+      "nature": "general"
+    },
+    {
+      "name": "ZDAY7",
+      "nature": "general"
+    },
+    {
+      "name": "RECONCILIATIONACCOUNT",
+      "nature": "general"
+    }
+  ]
+}

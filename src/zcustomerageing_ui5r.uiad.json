@@ -1,0 +1,34 @@
+{
+  "formatVersion": "1",
+  "header": {
+    "description": "Customer Ageing",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "generalInformation": {
+    "appType": "ui5",
+    "catalogId": "SAP_TC_UI5_REPO_UIAD"
+  },
+  "ui5AppDetails": {
+    "appId": "zcustomerageing"
+  },
+  "navigation": {
+    "targetMappingId": "UI5R_E9CFEA7C2C50567896478BEF08050ADDFA01A7C2_TM",
+    "semanticObject": "zcustomerageing",
+    "action": "display",
+    "desktop": true,
+    "tablet": true,
+    "phone": true
+  },
+  "tiles": [
+    {
+      "id": "UI5R_E9CFEA7C2C50567896478BEF08050ADDFA01A7C2_AL",
+      "tileType": "static",
+      "isDefault": true,
+      "standard": {
+        "title": "Customer Ageing",
+        "subtitle": "FI"
+      }
+    }
+  ]
+}
